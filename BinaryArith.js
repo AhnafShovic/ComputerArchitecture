@@ -42,4 +42,6 @@ subtract binary numbers using 1's compliment
 0101 + 1=2's complement 
 
 // binary subtraction using 2's complement
-(X-Y) = X + (2’s complement of Y)
+    (X - Y) = X + (2’s complement of Y)
+
+    53-12= 110101-001100=110101+(110011+1)=110101+110100=1101001
