@@ -35,4 +35,11 @@ subtract binary numbers using 1's compliment
 +1  010010  // 1 carry over
          1
 -------------
-     10011 result     
+    10011 result    
+     
+    
+1010
+0101 + 1=2's complement 
+
+// binary subtraction using 2's complement
+(X-Y) = X + (2’s complement of Y)
