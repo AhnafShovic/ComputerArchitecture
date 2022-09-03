@@ -1,0 +1,19 @@
+{
+  "name": "computerarchitecture",
+  "version": "1.0.0",
+  "description": "Fundamentals about a Personal Computer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhnafShovic/ComputerArchitecture.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhnafShovic/ComputerArchitecture/issues"
+  },
+  "homepage": "https://github.com/AhnafShovic/ComputerArchitecture#readme"
+}
