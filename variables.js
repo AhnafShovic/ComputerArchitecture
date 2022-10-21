@@ -49,3 +49,17 @@ let leagueResults = [
     Barishal: 77,
   },
 ];
+
+// instructions end with semicolon
+// instructions have variables and operators
+let n1 = 25;
+let n2 = 50;
+let n3 = n1 + n2;
+let n4 = n3 - n2;
+let n5 = n4 / n1;
+let n6 = n5 * n3;
+let n7 = n4 % n5;
+n1++;
+n2--;
+n1 += 10;
+n1 = n1 + 10;
